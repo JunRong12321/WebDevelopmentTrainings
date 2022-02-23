@@ -1,0 +1,168 @@
+body{
+  margin:0;
+  text-align: center;
+  font-weight: normal;
+  line-height: inherit;
+}
+
+h1{
+  background-color: transparent;
+  display: block;
+  margin: 0 auto 0 auto;
+  font-family: monospace;
+}
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.my-skills{
+  text-decoration: underline;
+}
+
+p{
+  background-color: transparent;
+  display: block;
+  margin: 0 auto 0 auto;
+  font-family: monospace;
+
+
+}
+
+div{
+  font-style: normal;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 2.5%;
+}
+.profile-picture{
+  height:70px;
+  width:70px;
+  position: absolute;
+  top:5%;
+  left:10%;
+}
+.top-container{
+  position: relative;
+  width: 100%;
+  height: 700px;
+  background-color: #EDE682;
+}
+
+.middle-container{
+  font-family: Titillium Web;
+  font-size: 175%;
+  background-color: #CCD1E4;
+}
+
+.bottom-container{
+  font-family: Titillium Web;
+  font-size: 75%;
+  padding: 20px 0 20px;
+  background-color: #FEECE9;
+
+
+}
+
+.header{
+  font-family: ZCOOL QingKe HuangYou;
+  position: relative;
+  top: 20%;
+  font-size: 7em;
+  text-decoration: underline;
+  color: #769353;
+}
+
+.slogan{
+  position: relative;
+  top:20%;
+  font-family: Titillium Web;
+  font-size: 1em;
+  color: #769353;
+}
+
+.mountain{
+  text-align: center;
+  position: relative;
+  top:25%;
+  width: 1750px;
+  height: 500px;
+}
+
+.icon{
+  height: auto;
+  width: auto;
+}
+
+.pro-icon{
+  height: auto;
+  width: auto;
+  float: left;
+  margin: auto 30px auto 30px;
+}
+
+.globe-icon{
+  height: auto;
+  width: auto;
+  float: right;
+  margin: auto 30px auto 30px;
+}
+.footer-icon{
+  height:40px;
+  width:40px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  font-size: 90%;
+}
+
+.contact-me{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+.btn{
+  background: #f05757;
+  background: -webkit-linear-gradient(top, #f05757, #f05757);
+  background: -moz-linear-gradient(top, #f05757, #f05757);
+  background: -ms-linear-gradient(top, #f05757, #f05757);
+  background: -o-linear-gradient(top, #f05757, #f05757);
+  background: linear-gradient(to bottom, #f05757, #f05757);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Titillium Web;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #b3312d;
+  background: -webkit-linear-gradient(top, #b3312d, #b3312d);
+  background: -moz-linear-gradient(top, #b3312d, #b3312d);
+  background: -ms-linear-gradient(top, #b3312d, #b3312d);
+  background: -o-linear-gradient(top, #b3312d, #b3312d);
+  background: linear-gradient(to bottom, #b3312d, #b3312d);
+  text-decoration: none;
+}
+
+.footer-link{
+  margin:10px 10px;
+}
